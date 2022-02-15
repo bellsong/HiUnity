@@ -61,3 +61,5 @@ http://forum.easyar.cn/portal.php?mod=view&aid=17
 ## 参考
 
 1. [重磅 | 完备的EasyAR学习路线，最详细的资源整理！](https://mp.weixin.qq.com/s?__biz=Mzg2ODUzMzEzMg==&mid=2247489587&idx=1&sn=935a925496b8623a6313d528c4589baf&source=41#wechat_redirect)
+
+2. [EasyAR社区教程](http://forum.easyar.cn/?t=1643101198)
