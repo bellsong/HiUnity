@@ -14,6 +14,14 @@
 
 Unity 可以方便导出 Android 工程，包括 launcher 和 unitylibrary 两部分，Android 工程只需要直接依赖 unitylibrary 就可以直接编译运行
 
+Android 工程开发工具Android Studio
+
+Unity 工程开发工具 Unity 
+
+Unity 脚本编辑工具 Visual Studio
+
+Unity 工程导出unitylibrary 到 Android 工程集成
+
 ### Unity 和 Android 工程通信方式
 
 详见 https://github.com/Unity-Technologies/uaal-example.git
@@ -168,6 +176,16 @@ unity代码：
     }
 
 
+#### 回调
+
+#### Android 和 Unity 通信组件封装
+
+浅谈Unity与Android原生的桥接
+
+
+
+https://juejin.cn/post/6844904165760565261
+
 
 #### Android 和 Unity 开发常见错误
 
@@ -186,3 +204,5 @@ https://docs.unity3d.com/2019.3/Documentation/Manual/TroubleShootingAndroid.html
 [Unity移动设备输入](https://docs.unity.cn/cn/current/Manual/MobileInput.html)
 
 [unity和Android交互](https://www.cnblogs.com/colored-mr/p/5677209.html)
+
+[浅谈Unity与Android原生的桥接](https://juejin.cn/post/6844904165760565261)
